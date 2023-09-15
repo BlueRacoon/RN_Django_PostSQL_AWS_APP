@@ -1,0 +1,52 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+# Ignore node_modules directory in the ElectroMart folder
+/FrontEnd/ElectroMart/node_modules/
+
+# Ignore npm's package-lock or yarn's yarn.lock files
+/FrontEnd/ElectroMart/package-lock.json
+/FrontEnd/ElectroMart/yarn.lock
+
+# Ignore any log files
+/FrontEnd/ElectroMart/*.log
+
+# Ignore environment-specific files (e.g., .env files)
+/FrontEnd/ElectroMart/.env
+/FrontEnd/ElectroMart/.env.local
+
+# Ignore Visual Studio Code settings
+.vscode/
