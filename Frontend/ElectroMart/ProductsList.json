@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "smartphone",
+    "name": "Apple iPhone 13 Pro Max",
+    "price": 1099.99,
+    "description": "The Apple iPhone 13 Pro Max is the latest flagship smartphone from Apple. It features a stunning Super Retina XDR display, a powerful A15 Bionic chip, and an advanced triple-camera system. With its impressive performance and camera capabilities, it's the perfect device for capturing and experiencing life's moments.",
+    "image": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 2,
+    "category": "smartphone",
+    "name": "Samsung Galaxy S21",
+    "price": 999.99,
+    "description": "The Samsung Galaxy S21 is a flagship Android smartphone known for its sleek design and powerful performance. It features a stunning AMOLED display, a high-quality camera system, and 5G connectivity. With its cutting-edge features, it's a top choice for Android enthusiasts.",
+    "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 3,
+    "category": "computer",
+    "name": "Dell XPS 13 Laptop",
+    "price": 1399.99,
+    "description": "The Dell XPS 13 Laptop is a premium ultrabook known for its exceptional build quality and performance. It features a high-resolution InfinityEdge display, powerful Intel processors, and a sleek and portable design. Whether you're working on the go or enjoying multimedia, this laptop delivers a superb experience.",
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 4,
+    "category": "game",
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "description": "The Sony PlayStation 5 is the latest gaming console from Sony. It offers stunning 4K gaming graphics, ultra-fast loading times, and a library of exciting games. With its advanced hardware and features, it delivers an immersive gaming experience like never before.",
+    "image": "https://images.unsplash.com/photo-1622297845908-866f3677350e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 5,
+    "category": "tv",
+    "name": "LG 55-inch 4K OLED TV",
+    "price": 1499.99,
+    "description": "The LG 55-inch 4K OLED TV offers a stunning visual experience with its OLED technology and 4K resolution. It features vibrant colors, deep blacks, and an ultra-thin design. Whether you're watching movies, playing games, or streaming content, this TV provides exceptional picture quality.",
+    "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+  }
+]
